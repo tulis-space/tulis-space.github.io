@@ -1,0 +1,476 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Tulis-Space.com" resolutions="1x" timestamp="1484803403042">
+  <folder name="css">
+    <file name="site_global.css" crc="3865465252"/>
+    <file name="master_a-master.css" crc="4074694853" ref="home-(intro):home"/>
+    <file name="nomq_preview_master_a-master.css" crc="296114605" ref="home-(intro):home"/>
+    <file name="master_a-master-copy.css" crc="294586548" ref="writers:benefits:new-talent:hafiy-johari:featured:poems:demokrasi-pendera:upload:zine:mesin-masa:categories:legal:cart--nostalgia:contact-us:feedback:zine-satu-malam:form-received:received-buy:tour-home:cart--ibu:tetamu-senja-by-a.-samad-said:writing-tips:eureka-by-bold:news:a.samad-said:about:received:poems-1"/>
+    <file name="nomq_preview_master_a-master-copy.css" crc="37474680" ref="writers:benefits:new-talent:hafiy-johari:featured:poems:demokrasi-pendera:upload:zine:mesin-masa:categories:legal:cart--nostalgia:contact-us:feedback:zine-satu-malam:form-received:received-buy:tour-home:cart--ibu:tetamu-senja-by-a.-samad-said:writing-tips:eureka-by-bold:news:a.samad-said:about:received:poems-1"/>
+    <file name="master_a-master-bm.css" crc="3763976504" ref="home-bm"/>
+    <file name="nomq_preview_master_a-master-bm.css" crc="3858900300" ref="home-bm"/>
+    <file name="master_b-master.css" crc="4087589515" ref="menu:menu-bm"/>
+    <file name="nomq_preview_master_b-master.css" crc="535735274" ref="menu:menu-bm"/>
+    <file name="writers.css" crc="265779683" ref="writers"/>
+    <file name="nomq_writers.css" crc="4017003487" ref="writers"/>
+    <file name="benefits.css" crc="4121647818" ref="benefits"/>
+    <file name="nomq_benefits.css" crc="468242006" ref="benefits"/>
+    <file name="new-talent.css" crc="467374091" ref="new-talent"/>
+    <file name="nomq_new-talent.css" crc="486816462" ref="new-talent"/>
+    <file name="hafiy-johari.css" crc="319441704" ref="hafiy-johari"/>
+    <file name="nomq_hafiy-johari.css" crc="3893550621" ref="hafiy-johari"/>
+    <file name="featured.css" crc="526814917" ref="featured"/>
+    <file name="nomq_featured.css" crc="326755381" ref="featured"/>
+    <file name="poems.css" crc="444309047" ref="poems"/>
+    <file name="nomq_poems.css" crc="4093355691" ref="poems"/>
+    <file name="demokrasi-pendera.css" crc="3977131066" ref="demokrasi-pendera"/>
+    <file name="nomq_demokrasi-pendera.css" crc="482835161" ref="demokrasi-pendera"/>
+    <file name="upload.css" crc="4242219676" ref="upload"/>
+    <file name="nomq_upload.css" crc="4179935693" ref="upload"/>
+    <file name="zine.css" crc="3947509832" ref="zine"/>
+    <file name="nomq_zine.css" crc="31330315" ref="zine"/>
+    <file name="mesin-masa.css" crc="3947965287" ref="mesin-masa"/>
+    <file name="nomq_mesin-masa.css" crc="55720013" ref="mesin-masa"/>
+    <file name="home-_intro_.css" crc="346389943" ref="home-(intro)"/>
+    <file name="nomq_home-_intro_.css" crc="411644679" ref="home-(intro)"/>
+    <file name="categories.css" crc="457407454" ref="categories"/>
+    <file name="nomq_categories.css" crc="3881540738" ref="categories"/>
+    <file name="legal.css" crc="73534831" ref="legal"/>
+    <file name="nomq_legal.css" crc="499746205" ref="legal"/>
+    <file name="cart--nostalgia.css" crc="455509090" ref="cart--nostalgia"/>
+    <file name="nomq_cart--nostalgia.css" crc="4053872442" ref="cart--nostalgia"/>
+    <file name="contact-us.css" crc="306640739" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="149159218" ref="contact-us"/>
+    <file name="feedback.css" crc="395692812" ref="feedback"/>
+    <file name="nomq_feedback.css" crc="70304974" ref="feedback"/>
+    <file name="zine-satu-malam.css" crc="451486621" ref="zine-satu-malam"/>
+    <file name="nomq_zine-satu-malam.css" crc="309050552" ref="zine-satu-malam"/>
+    <file name="menu.css" crc="3828603365" ref="menu"/>
+    <file name="nomq_menu.css" crc="516464047" ref="menu"/>
+    <file name="form-received.css" crc="451486621" ref="form-received"/>
+    <file name="nomq_form-received.css" crc="309050552" ref="form-received"/>
+    <file name="received-buy.css" crc="403780121" ref="received-buy"/>
+    <file name="nomq_received-buy.css" crc="360058859" ref="received-buy"/>
+    <file name="menu-bm.css" crc="328573179" ref="menu-bm"/>
+    <file name="nomq_menu-bm.css" crc="4087074303" ref="menu-bm"/>
+    <file name="tour-home.css" crc="451486621" ref="tour-home"/>
+    <file name="nomq_tour-home.css" crc="309050552" ref="tour-home"/>
+    <file name="cart--ibu.css" crc="4107510387" ref="cart--ibu"/>
+    <file name="nomq_cart--ibu.css" crc="342725320" ref="cart--ibu"/>
+    <file name="tetamu-senja-by-a_-samad-said.css" crc="199429696" ref="tetamu-senja-by-a.-samad-said"/>
+    <file name="nomq_tetamu-senja-by-a_-samad-said.css" crc="4160553650" ref="tetamu-senja-by-a.-samad-said"/>
+    <file name="writing-tips.css" crc="3799436048" ref="writing-tips"/>
+    <file name="nomq_writing-tips.css" crc="4217315084" ref="writing-tips"/>
+    <file name="eureka-by-bold.css" crc="526157486" ref="eureka-by-bold"/>
+    <file name="nomq_eureka-by-bold.css" crc="310876611" ref="eureka-by-bold"/>
+    <file name="index.css" crc="3959307829" ref="index"/>
+    <file name="nomq_index.css" crc="4279165017" ref="index"/>
+    <file name="home-bm.css" crc="481177321" ref="home-bm"/>
+    <file name="nomq_home-bm.css" crc="197369304" ref="home-bm"/>
+    <file name="home.css" crc="3759608294" ref="home"/>
+    <file name="nomq_home.css" crc="4259257484" ref="home"/>
+    <file name="news.css" crc="471837547" ref="news"/>
+    <file name="nomq_news.css" crc="24587934" ref="news"/>
+    <file name="a_samad-said.css" crc="4234146868" ref="a.samad-said"/>
+    <file name="nomq_a_samad-said.css" crc="44965081" ref="a.samad-said"/>
+    <file name="about.css" crc="3914775714" ref="about"/>
+    <file name="nomq_about.css" crc="508590256" ref="about"/>
+    <file name="received.css" crc="31460487" ref="received"/>
+    <file name="nomq_received.css" crc="258205572" ref="received"/>
+    <file name="poems-1.css" crc="293785691" ref="poems-1"/>
+    <file name="nomq_poems-1.css" crc="488438926" ref="poems-1"/>
+  </folder>
+  <folder name="assets">
+    <file name="-courage--sao-ii-opening-full.mp3" crc="3922920918" seo="true" mt="1450059454000"/>
+    <file name="sajak-tetamu-senja-~-a.samad-said.mp3" crc="19438126" seo="true" mt="1484508811000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="museutils.js" crc="3851988764" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="whatinput.js" crc="86476730" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="museconfig.js" crc="4242129463" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="pie.js" crc="3831537696" ref="home:featured:home-bm:a.samad-said:hafiy-johari:home-(intro)"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="home:upload:categories:tetamu-senja-by-a.-samad-said:eureka-by-bold:received:home-bm:a.samad-said:hafiy-johari:cart--nostalgia:received-buy:cart--ibu:home-(intro)"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="require.js" crc="4108833657" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="webpro.js" crc="4067903014" ref="featured:upload:feedback:index:cart--nostalgia:cart--ibu"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="featured:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="featured:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="featured:index"/>
+    <file name="form_check.php" crc="121412709" ref="upload"/>
+    <file name="form_throttle.php" crc="4268640971" ref="upload"/>
+    <file name="form_process.php" crc="444429785" ref="upload"/>
+    <file name="form-u42924.php" crc="4228681657" ref="upload"/>
+    <file name="form-u29154.php" crc="3993973747" ref="feedback"/>
+    <file name="form-u81883.php" crc="84327881" ref="cart--nostalgia"/>
+    <file name="form-u82361.php" crc="420930079" ref="cart--ibu"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="449834644" ref="home"/>
+    <file name="u123.png" crc="422624599" ref="home:home-(intro)"/>
+    <file name="u123-r.png" crc="4198294627" ref="home:home-(intro)"/>
+    <file name="blank.gif" crc="4208392903" ref="home:about:featured:upload:categories:contact-us:menu:menu-bm:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:index:home-bm:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu:home-(intro)"/>
+    <file name="u135_states.png" crc="3940709685" ref="home:home-(intro)"/>
+    <file name="u135_states-r.png" crc="350836697" ref="home:home-(intro)"/>
+    <file name="u135_states-m.png" crc="350836697" ref="home:home-(intro)"/>
+    <file name="u135_states-a.png" crc="350836697" ref="home:home-(intro)"/>
+    <file name="u139_states.png" crc="353865141" ref="home:home-(intro)"/>
+    <file name="u139_states-r.png" crc="3834440480" ref="home:home-(intro)"/>
+    <file name="u139_states-a.png" crc="3834440480" ref="home:home-(intro)"/>
+    <file name="u145_states.png" crc="3904041052" ref="home:home-(intro)"/>
+    <file name="u145_states-r.png" crc="4144107147" ref="home:home-(intro)"/>
+    <file name="u145_states-a.png" crc="4144107147" ref="home:home-(intro)"/>
+    <file name="u157_states.png" crc="3789111178" ref="home:home-(intro)"/>
+    <file name="u157_states-r.png" crc="4066450131" ref="home:home-(intro)"/>
+    <file name="u157_states-a.png" crc="4066450131" ref="home:home-(intro)"/>
+    <file name="u169_states.png" crc="340743168" ref="home:home-(intro)"/>
+    <file name="u169_states-r.png" crc="194711356" ref="home:home-(intro)"/>
+    <file name="u169_states-a.png" crc="194711356" ref="home:home-(intro)"/>
+    <file name="devices_icons-01.png" crc="525985352" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_icons-02.png" crc="3774904208" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_icons-03.png" crc="454080127" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_icons-04.png" crc="3806582685" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="iconlogo_grey.png" crc="383083293" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="on devices-01.png" crc="427365617" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="iconlogo_grey131x144.png" crc="383083293" seo="true" ref="home"/>
+    <file name="button_explore features-normal.png" crc="3988142315" ref="home:received:home-bm:received-buy:home-(intro)"/>
+    <file name="button_explore features-hover.png" crc="364675991" ref="home:received:home-bm:received-buy:home-(intro)"/>
+    <file name="u251-4.png" crc="381625051" ref="home:home-(intro)"/>
+    <file name="u257-4.png" crc="3980062575" ref="home:home-(intro)"/>
+    <file name="u278-4.png" crc="380381623" ref="home:home-(intro)"/>
+    <file name="u293-4.png" crc="257034729" ref="home:home-(intro)"/>
+    <file name="iconlogo_grey112x124.png" crc="485651341" seo="true" ref="home"/>
+    <file name="devices_iconslight-01.png" crc="3846576918" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_iconslight-02.png" crc="376336549" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_iconslight-03.png" crc="3886047473" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="devices_iconslight-04.png" crc="22994669" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="iconlogo_lightgrey.png" crc="488304477" seo="true" ref="home:home-bm:home-(intro)"/>
+    <file name="u1029.png" crc="3999189484" ref="home"/>
+    <file name="u1029-r.png" crc="3980466395" ref="home"/>
+    <file name="u1041.png" crc="149150902" ref="home"/>
+    <file name="u1041-r.png" crc="522328913" ref="home"/>
+    <file name="u751.png" crc="13102274" ref="home:home-(intro)"/>
+    <file name="u751-r.png" crc="280916062" ref="home:home-(intro)"/>
+    <file name="u10292.png" crc="3999189484" ref="home"/>
+    <file name="u1029-r2.png" crc="3980466395" ref="home"/>
+    <file name="u10412.png" crc="149150902" ref="home"/>
+    <file name="u1041-r2.png" crc="522328913" ref="home"/>
+    <file name="a-master-copy-favicon.ico" crc="449834644" ref="about"/>
+    <file name="u25291.png" crc="422624599" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25291-r.png" crc="4198294627" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25289_states.png" crc="3940709685" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25289_states-r.png" crc="350836697" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25289_states-m.png" crc="350836697" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25289_states-a.png" crc="350836697" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25297_states.png" crc="353865141" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25297_states-r.png" crc="3834440480" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25297_states-a.png" crc="3834440480" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25303_states.png" crc="3904041052" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25303_states-r.png" crc="4144107147" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25303_states-a.png" crc="4144107147" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25299_states.png" crc="3789111178" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25299_states-r.png" crc="4066450131" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25299_states-a.png" crc="4066450131" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25307_states.png" crc="340743168" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25307_states-r.png" crc="194711356" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25307_states-a.png" crc="194711356" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25290-4.png" crc="381625051" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25288-4.png" crc="3980062575" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25309-4.png" crc="380381623" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25298-4.png" crc="257034729" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25294.png" crc="13102274" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25294-r.png" crc="280916062" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25394.png" crc="4059809334" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="u25394-r.png" crc="163402056" ref="about:featured:upload:categories:contact-us:tetamu-senja-by-a.-samad-said:eureka-by-bold:news:received:writers:new-talent:poems:zine:legal:feedback:form-received:tour-home:writing-tips:a.samad-said:poems-1:benefits:hafiy-johari:demokrasi-pendera:mesin-masa:cart--nostalgia:zine-satu-malam:received-buy:cart--ibu"/>
+    <file name="15781451_1819192628294679_2297040770444569985_n.jpg" crc="4056697008" seo="true" ref="featured"/>
+    <file name="mg_02611aa.jpg" crc="3979632623" ref="featured:tetamu-senja-by-a.-samad-said"/>
+    <file name="loading.gif" crc="3815509949" ref="featured:index"/>
+    <file name="catalogue_artwork-01-u66965-fr.jpg" crc="3953009410" ref="featured"/>
+    <file name="mg_02611aa-u66983-fr.jpg" crc="4111589754" ref="featured"/>
+    <file name="15781451_1819192628294679_2297040770444569985_n-u67007-fr.jpg" crc="104153980" ref="featured"/>
+    <file name="15781451_1819192628294679_2297040770444569985_n-u67007-fr2.jpg" crc="3892073628" ref="featured"/>
+    <file name="catalogue_artwork-01-ieu66965-fr.png" crc="183428981" ref="featured"/>
+    <file name="catalogue_artwork-01.jpg" crc="3899454696" ref="featured"/>
+    <file name="mg_02611aa-ieu66983-fr.png" crc="353732450" ref="featured"/>
+    <file name="15781451_1819192628294679_2297040770444569985_n-u67007-fr3.jpg" crc="4284116236" ref="featured"/>
+    <file name="catalogue_artwork-01-ieu66965-fr2.png" crc="62655639" ref="featured"/>
+    <file name="mg_02611aa-ieu66983-fr2.png" crc="351696808" ref="featured"/>
+    <file name="15781451_1819192628294679_2297040770444569985_n-u67007-fr4.jpg" crc="4207678592" ref="featured"/>
+    <file name="u42931-17.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs.png" crc="119027808" ref="upload"/>
+    <file name="checkboxunchecked.jpg" crc="3995141794" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4064281604" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="187163638" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="checkboxchecked.jpg" crc="278809147" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="checkboxcheckedrollover.jpg" crc="9876373" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4102437312" ref="upload:cart--nostalgia:cart--ibu"/>
+    <file name="button_upload file-normal.png" crc="408603828" ref="upload"/>
+    <file name="button_upload file-hover.png" crc="317281916" ref="upload"/>
+    <file name="u42931-172.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r2.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m2.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs2.png" crc="119027808" ref="upload"/>
+    <file name="u42931-173.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r3.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m3.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs3.png" crc="119027808" ref="upload"/>
+    <file name="u42931-174.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r4.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m4.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs4.png" crc="119027808" ref="upload"/>
+    <file name="u42931-175.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r5.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m5.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs5.png" crc="119027808" ref="upload"/>
+    <file name="button_upload file-u44330-fr.png" crc="4126044654" ref="upload"/>
+    <file name="button_upload file-u44330-r-fr.png" crc="66481521" ref="upload"/>
+    <file name="u42931-176.png" crc="402555234" ref="upload"/>
+    <file name="u42931-17-r6.png" crc="256668400" ref="upload"/>
+    <file name="u42931-17-m6.png" crc="4184806240" ref="upload"/>
+    <file name="u42931-17-fs6.png" crc="119027808" ref="upload"/>
+    <file name="button_new writers-u67348-fr.jpg" crc="4167719649" ref="categories"/>
+    <file name="button_new writers-u67348-r-fr.jpg" crc="145176267" ref="categories"/>
+    <file name="button_all writers-u67621-fr.png" crc="425161837" ref="categories"/>
+    <file name="button_all writers-u67621-r-fr.png" crc="4048969523" ref="categories"/>
+    <file name="button_poems-normal.jpg" crc="243522375" ref="categories"/>
+    <file name="button_poems-hover.jpg" crc="318300300" ref="categories"/>
+    <file name="button_zine-normal.jpg" crc="384499339" ref="categories"/>
+    <file name="button_zine-hover.jpg" crc="4213787022" ref="categories"/>
+    <file name="button_new writers-u67348-fr2.jpg" crc="3851555093" ref="categories"/>
+    <file name="button_new writers-u67348-r-fr2.jpg" crc="323516608" ref="categories"/>
+    <file name="button_all writers-u67621-fr2.png" crc="4245215605" ref="categories"/>
+    <file name="button_all writers-u67621-r-fr2.png" crc="4039640116" ref="categories"/>
+    <file name="button_new writers-u67348-fr3.jpg" crc="4097671495" ref="categories"/>
+    <file name="button_new writers-u67348-r-fr3.jpg" crc="325501534" ref="categories"/>
+    <file name="button_all writers-u67621-fr3.png" crc="4131539991" ref="categories"/>
+    <file name="button_all writers-u67621-r-fr3.png" crc="4214978999" ref="categories"/>
+    <file name="1920x1200-data-out-137-47130089-keyboard-wallpaper.jpg" crc="450852850" seo="true" ref="categories:index"/>
+    <file name="hand_head_table_cigarette_knife_writing_artist_books_typewriter_men_mood_1920x1080.jpg" crc="349314940" seo="true" ref="categories:index"/>
+    <file name="writer-wallpaper-1366x768.jpg" crc="4003075214" ref="categories"/>
+    <file name="39362078-writing-wallpapers.jpg" crc="392063656" ref="categories"/>
+    <file name="b-master-favicon.ico" crc="449834644" ref="menu"/>
+    <file name="u8010.png" crc="3823337567" ref="menu"/>
+    <file name="u8010-r.png" crc="3849086462" ref="menu"/>
+    <file name="u8046_states.png" crc="4082109225" ref="menu"/>
+    <file name="u8046_states-r.png" crc="4048153885" ref="menu"/>
+    <file name="u8046_states-m.png" crc="4048153885" ref="menu"/>
+    <file name="u8047_states.png" crc="3897831723" ref="menu"/>
+    <file name="u8047_states-r.png" crc="105997312" ref="menu"/>
+    <file name="u8048_states.png" crc="4153087045" ref="menu"/>
+    <file name="u8048_states-r.png" crc="4227265145" ref="menu"/>
+    <file name="u8049_states.png" crc="97676601" ref="menu"/>
+    <file name="u8049_states-r.png" crc="4016596989" ref="menu"/>
+    <file name="u8050_states.png" crc="4216105207" ref="menu"/>
+    <file name="u8050_states-r.png" crc="3813361030" ref="menu"/>
+    <file name="u22985.png" crc="4059809334" ref="menu"/>
+    <file name="u22985-r.png" crc="163402056" ref="menu"/>
+    <file name="u80102.png" crc="3823337567" ref="menu"/>
+    <file name="u8010-r2.png" crc="3849086462" ref="menu"/>
+    <file name="u8046_states2.png" crc="4082109225" ref="menu"/>
+    <file name="u8046_states-r2.png" crc="4048153885" ref="menu"/>
+    <file name="u8046_states-m2.png" crc="4048153885" ref="menu"/>
+    <file name="u8047_states2.png" crc="3897831723" ref="menu"/>
+    <file name="u8047_states-r2.png" crc="105997312" ref="menu"/>
+    <file name="u8048_states2.png" crc="4153087045" ref="menu"/>
+    <file name="u8048_states-r2.png" crc="4227265145" ref="menu"/>
+    <file name="u8049_states2.png" crc="97676601" ref="menu"/>
+    <file name="u8049_states-r2.png" crc="4016596989" ref="menu"/>
+    <file name="u8050_states2.png" crc="4216105207" ref="menu"/>
+    <file name="u8050_states-r2.png" crc="3813361030" ref="menu"/>
+    <file name="u229852.png" crc="3833745904" ref="menu"/>
+    <file name="u22985-r2.png" crc="69292600" ref="menu"/>
+    <file name="u17791.png" crc="519756597" ref="menu-bm"/>
+    <file name="u17791-r.png" crc="4229637191" ref="menu-bm"/>
+    <file name="u17785_states.png" crc="4217028720" ref="menu-bm"/>
+    <file name="u17785_states-r.png" crc="3924061781" ref="menu-bm"/>
+    <file name="u17785_states-m.png" crc="3924061781" ref="menu-bm"/>
+    <file name="u17796_states.png" crc="233869601" ref="menu-bm"/>
+    <file name="u17796_states-r.png" crc="387758228" ref="menu-bm"/>
+    <file name="u17788_states.png" crc="4041899433" ref="menu-bm"/>
+    <file name="u17788_states-r.png" crc="227239346" ref="menu-bm"/>
+    <file name="u17786_states.png" crc="97061276" ref="menu-bm"/>
+    <file name="u17786_states-r.png" crc="3891000585" ref="menu-bm"/>
+    <file name="u17798_states.png" crc="3853347053" ref="menu-bm"/>
+    <file name="u17798_states-r.png" crc="352323413" ref="menu-bm"/>
+    <file name="u23080.png" crc="4059809334" ref="menu-bm"/>
+    <file name="u23080-r.png" crc="163402056" ref="menu-bm"/>
+    <file name="u177912.png" crc="519756597" ref="menu-bm"/>
+    <file name="u17791-r2.png" crc="4229637191" ref="menu-bm"/>
+    <file name="u17785_states2.png" crc="4217028720" ref="menu-bm"/>
+    <file name="u17785_states-r2.png" crc="3924061781" ref="menu-bm"/>
+    <file name="u17785_states-m2.png" crc="3924061781" ref="menu-bm"/>
+    <file name="u17796_states2.png" crc="233869601" ref="menu-bm"/>
+    <file name="u17796_states-r2.png" crc="387758228" ref="menu-bm"/>
+    <file name="u17788_states2.png" crc="4041899433" ref="menu-bm"/>
+    <file name="u17788_states-r2.png" crc="227239346" ref="menu-bm"/>
+    <file name="u17786_states2.png" crc="97061276" ref="menu-bm"/>
+    <file name="u17786_states-r2.png" crc="3891000585" ref="menu-bm"/>
+    <file name="u17798_states2.png" crc="3853347053" ref="menu-bm"/>
+    <file name="u17798_states-r2.png" crc="352323413" ref="menu-bm"/>
+    <file name="u230802.png" crc="4059809334" ref="menu-bm"/>
+    <file name="u23080-r2.png" crc="163402056" ref="menu-bm"/>
+    <file name="mg_02611aa-u70090-fr.jpg" crc="3805017664" ref="tetamu-senja-by-a.-samad-said"/>
+    <file name="mg_02611aa-u70090-fr2.jpg" crc="353732450" ref="tetamu-senja-by-a.-samad-said"/>
+    <file name="mg_02611aa-u70090-fr3.jpg" crc="351696808" ref="tetamu-senja-by-a.-samad-said"/>
+    <file name="15823319_1820499094830699_942086049199814925_n.jpg" crc="209593315" ref="eureka-by-bold"/>
+    <file name="15823319_1820499094830699_942086049199814925_n-u72263-fr.jpg" crc="386885934" ref="eureka-by-bold"/>
+    <file name="catalogue_artwork-011160x1157.jpg" crc="4081751685" seo="true" ref="news"/>
+    <file name="catalogue_artwork-01794x792.jpg" crc="4238515797" seo="true" ref="news"/>
+    <file name="catalogue_artwork-01656x654.jpg" crc="4077511402" seo="true" ref="news"/>
+    <file name="catalogue_artwork-01406x405.jpg" crc="97328815" seo="true" ref="news"/>
+    <file name="iconlogo_grey163x180.png" crc="383083293" seo="true" ref="received"/>
+    <file name="terimakasih.jpg" crc="46711982" seo="true" ref="zine"/>
+    <file name="puisi.jpg" crc="466959557" seo="true" ref="zine"/>
+    <file name="fiksi.jpg" crc="357286365" seo="true" ref="zine"/>
+    <file name="nostalgia.jpg" crc="4244037062" seo="true" ref="zine"/>
+    <file name="ibu.jpg" crc="3994212326" seo="true" ref="zine"/>
+    <file name="u29162-17.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-172.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r2.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m2.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs2.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-173.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r3.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m3.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs3.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-174.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r4.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m4.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs4.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-175.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r5.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m5.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs5.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-176.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r6.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m6.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs6.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-177.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r7.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m7.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs7.png" crc="3957048958" ref="feedback"/>
+    <file name="u29162-178.png" crc="3870416544" ref="feedback"/>
+    <file name="u29162-17-r8.png" crc="3901534282" ref="feedback"/>
+    <file name="u29162-17-m8.png" crc="315198854" ref="feedback"/>
+    <file name="u29162-17-fs8.png" crc="3957048958" ref="feedback"/>
+    <file name="c-master-favicon.ico" crc="449834644" ref="index"/>
+    <file name="hand_writing_pen_calculator_80647_3840x2160.jpg" crc="476648478" seo="true" ref="index"/>
+    <file name="logo_white-u56995.png" crc="3988189497" ref="index"/>
+    <file name="logo_white-u569952.png" crc="4272325197" ref="index"/>
+    <file name="a-master-bm-favicon.ico" crc="449834644" ref="home-bm"/>
+    <file name="u60092.png" crc="422624599" ref="home-bm"/>
+    <file name="u60092-r.png" crc="4198294627" ref="home-bm"/>
+    <file name="u60082_states.png" crc="214938783" ref="home-bm"/>
+    <file name="u60082_states-r.png" crc="3782129480" ref="home-bm"/>
+    <file name="u60082_states-m.png" crc="3782129480" ref="home-bm"/>
+    <file name="u60082_states-a.png" crc="3782129480" ref="home-bm"/>
+    <file name="u60074_states.png" crc="476572233" ref="home-bm"/>
+    <file name="u60074_states-r.png" crc="407281567" ref="home-bm"/>
+    <file name="u60074_states-a.png" crc="407281567" ref="home-bm"/>
+    <file name="u60081_states.png" crc="4171417113" ref="home-bm"/>
+    <file name="u60081_states-r.png" crc="202315636" ref="home-bm"/>
+    <file name="u60081_states-a.png" crc="202315636" ref="home-bm"/>
+    <file name="u60078_states.png" crc="36794512" ref="home-bm"/>
+    <file name="u60078_states-r.png" crc="340639378" ref="home-bm"/>
+    <file name="u60078_states-a.png" crc="340639378" ref="home-bm"/>
+    <file name="u60087_states.png" crc="304767427" ref="home-bm"/>
+    <file name="u60087_states-r.png" crc="3930453776" ref="home-bm"/>
+    <file name="u60087_states-a.png" crc="3930453776" ref="home-bm"/>
+    <file name="u60079-4.png" crc="381625051" ref="home-bm"/>
+    <file name="u60077-4.png" crc="133061517" ref="home-bm"/>
+    <file name="u60076-4.png" crc="4071753461" ref="home-bm"/>
+    <file name="u60085-4.png" crc="4217726771" ref="home-bm"/>
+    <file name="u59888.png" crc="3999189484" ref="home-bm"/>
+    <file name="u59888-r.png" crc="3980466395" ref="home-bm"/>
+    <file name="u59912.png" crc="149150902" ref="home-bm"/>
+    <file name="u59912-r.png" crc="522328913" ref="home-bm"/>
+    <file name="u60094.png" crc="13102274" ref="home-bm"/>
+    <file name="u60094-r.png" crc="280916062" ref="home-bm"/>
+    <file name="u598882.png" crc="3999189484" ref="home-bm"/>
+    <file name="u59888-r2.png" crc="3980466395" ref="home-bm"/>
+    <file name="u599122.png" crc="149150902" ref="home-bm"/>
+    <file name="u59912-r2.png" crc="522328913" ref="home-bm"/>
+    <file name="stock-photo-63962171.jpg" crc="498818883" ref="a.samad-said"/>
+    <file name="10636347_760177694050087_5560176187138852894_o.jpg" crc="3834925092" ref="hafiy-johari"/>
+    <file name="u81889-17.png" crc="402555234" ref="cart--nostalgia"/>
+    <file name="u81889-17-r.png" crc="256668400" ref="cart--nostalgia"/>
+    <file name="u81889-17-m.png" crc="4184806240" ref="cart--nostalgia"/>
+    <file name="u81889-17-fs.png" crc="119027808" ref="cart--nostalgia"/>
+    <file name="button_done-normal.png" crc="4194039754" ref="cart--nostalgia:cart--ibu"/>
+    <file name="button_done-hover.png" crc="4151335405" ref="cart--nostalgia:cart--ibu"/>
+    <file name="u81889-172.png" crc="402555234" ref="cart--nostalgia"/>
+    <file name="u81889-17-r2.png" crc="256668400" ref="cart--nostalgia"/>
+    <file name="u81889-17-m2.png" crc="4184806240" ref="cart--nostalgia"/>
+    <file name="u81889-17-fs2.png" crc="119027808" ref="cart--nostalgia"/>
+    <file name="u81889-173.png" crc="402555234" ref="cart--nostalgia"/>
+    <file name="u81889-17-r3.png" crc="256668400" ref="cart--nostalgia"/>
+    <file name="u81889-17-m3.png" crc="4184806240" ref="cart--nostalgia"/>
+    <file name="u81889-17-fs3.png" crc="119027808" ref="cart--nostalgia"/>
+    <file name="u81889-174.png" crc="402555234" ref="cart--nostalgia"/>
+    <file name="u81889-17-r4.png" crc="256668400" ref="cart--nostalgia"/>
+    <file name="u81889-17-m4.png" crc="4184806240" ref="cart--nostalgia"/>
+    <file name="u81889-17-fs4.png" crc="119027808" ref="cart--nostalgia"/>
+    <file name="u82366-17.png" crc="402555234" ref="cart--ibu"/>
+    <file name="u82366-17-r.png" crc="256668400" ref="cart--ibu"/>
+    <file name="u82366-17-m.png" crc="4184806240" ref="cart--ibu"/>
+    <file name="u82366-17-fs.png" crc="119027808" ref="cart--ibu"/>
+    <file name="u82366-172.png" crc="402555234" ref="cart--ibu"/>
+    <file name="u82366-17-r2.png" crc="256668400" ref="cart--ibu"/>
+    <file name="u82366-17-m2.png" crc="4184806240" ref="cart--ibu"/>
+    <file name="u82366-17-fs2.png" crc="119027808" ref="cart--ibu"/>
+    <file name="u82366-173.png" crc="402555234" ref="cart--ibu"/>
+    <file name="u82366-17-r3.png" crc="256668400" ref="cart--ibu"/>
+    <file name="u82366-17-m3.png" crc="4184806240" ref="cart--ibu"/>
+    <file name="u82366-17-fs3.png" crc="119027808" ref="cart--ibu"/>
+    <file name="u82366-174.png" crc="402555234" ref="cart--ibu"/>
+    <file name="u82366-17-r4.png" crc="256668400" ref="cart--ibu"/>
+    <file name="u82366-17-m4.png" crc="4184806240" ref="cart--ibu"/>
+    <file name="u82366-17-fs4.png" crc="119027808" ref="cart--ibu"/>
+    <file name="u84036.png" crc="3999189484" ref="home-(intro)"/>
+    <file name="u84036-r.png" crc="3980466395" ref="home-(intro)"/>
+    <file name="u84058.png" crc="149150902" ref="home-(intro)"/>
+    <file name="u84058-r.png" crc="522328913" ref="home-(intro)"/>
+    <file name="u840362.png" crc="3999189484" ref="home-(intro)"/>
+    <file name="u84036-r2.png" crc="3980466395" ref="home-(intro)"/>
+    <file name="u840582.png" crc="149150902" ref="home-(intro)"/>
+    <file name="u84058-r2.png" crc="522328913" ref="home-(intro)"/>
+  </folder>
+  <file name="home.html" crc="221307750" seo="true" mt="1484631691572" redirect="true"/>
+  <file name="about.html" crc="42560000" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="featured.html" crc="3838179878" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="upload.html" crc="80285508" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="categories.html" crc="114847506" seo="true" mt="1484748660430" redirect="true"/>
+  <file name="contact-us.html" crc="4231994869" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="menu.html" crc="4120539168" seo="true" mt="1484496934227" redirect="true"/>
+  <file name="menu-bm.html" crc="4032696947" seo="true" mt="1484496934227" redirect="true"/>
+  <file name="tetamu-senja-by-a.-samad-said.html" crc="4174892138" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="eureka-by-bold.html" crc="4202326784" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="news.html" crc="183090007" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="received.html" crc="4123121935" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="writers.html" crc="432189823" seo="true" mt="1484632545121" redirect="true"/>
+  <file name="new-talent.html" crc="38331100" seo="true" mt="1484633385110" redirect="true"/>
+  <file name="poems.html" crc="3771525516" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="zine.html" crc="296411473" seo="true" mt="1484748556811" redirect="true"/>
+  <file name="legal.html" crc="379440457" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="feedback.html" crc="4253121185" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="form-received.html" crc="1499900" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="tour-home.html" crc="4086001574" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="writing-tips.html" crc="212441884" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="index.html" crc="4179965831" seo="true" mt="1484764590072" redirect="true"/>
+  <file name="home-bm.html" crc="4150936679" seo="true" mt="1484631720067" redirect="true"/>
+  <file name="a.samad-said.html" crc="355767890" seo="true" mt="1484632444286" redirect="true"/>
+  <file name="poems-1.html" crc="45407268" seo="true" mt="1484633705928" redirect="true"/>
+  <file name="benefits.html" crc="3979553573" seo="true" mt="1484631332642" redirect="true"/>
+  <file name="hafiy-johari.html" crc="4266181403" seo="true" mt="1484633603503" redirect="true"/>
+  <file name="demokrasi-pendera.html" crc="3817716354" seo="true" mt="1484633584529" redirect="true"/>
+  <file name="mesin-masa.html" crc="380288883" seo="true" mt="1484633595714" redirect="true"/>
+  <file name="cart--nostalgia.html" crc="3904747371" seo="true" mt="1484748548962" redirect="true"/>
+  <file name="zine-satu-malam.html" crc="3911793683" seo="true" mt="1484635474300" redirect="true"/>
+  <file name="received-buy.html" crc="431134104" seo="true" mt="1484635837729" redirect="true"/>
+  <file name="cart--ibu.html" crc="332279503" seo="true" mt="1484748556811" redirect="true"/>
+  <file name="home-(intro).html" crc="4010691190" seo="true" mt="1484764559595" redirect="true"/>
+</manifest>
